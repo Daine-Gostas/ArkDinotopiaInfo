@@ -3,13 +3,13 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": true,
-        "HideIconAfter": 60,
+        "HideIconAfter": 0,
         "IconURL": "https://i.imgur.com/RHlpYgm.png",
         "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 0,
         "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
+        "OpenOnStartOnlyNewPlayers": false,
         "UpdateInterval": 12
       },
     "tabs": [
